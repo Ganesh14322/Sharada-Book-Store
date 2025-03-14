@@ -738,7 +738,7 @@ section{
 
 /* media queries  */
 
-@media (max-width:991px){
+@media (max-width:62rem){
 
     html{
         font-size: 55%;
@@ -754,7 +754,7 @@ section{
 
 }
 
-@media (max-width:768px){
+@media (max-width:48rem){
 
     html{
         scroll-padding-top: 0;
@@ -811,7 +811,7 @@ section{
 
 }
 
-@media (max-width:450px){
+@media (max-width:28.125rem){
 
     html{
         font-size: 50%;
